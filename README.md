@@ -1,4 +1,4 @@
-# 🐍 Snake Game
+# 🐍 Snake Game - Snaky 
 
 A feature-rich snake game built with **C++** and **SDL2** library, featuring immersive graphics, sound effects, and engaging gameplay mechanics.
 
